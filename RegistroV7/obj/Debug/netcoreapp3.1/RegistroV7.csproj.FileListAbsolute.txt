@@ -1,0 +1,13 @@
+C:\Users\Mario David\Desktop\ejercicios\RegistroV7\bin\Debug\netcoreapp3.1\RegistroV7.exe
+C:\Users\Mario David\Desktop\ejercicios\RegistroV7\bin\Debug\netcoreapp3.1\RegistroV7.deps.json
+C:\Users\Mario David\Desktop\ejercicios\RegistroV7\bin\Debug\netcoreapp3.1\RegistroV7.runtimeconfig.json
+C:\Users\Mario David\Desktop\ejercicios\RegistroV7\bin\Debug\netcoreapp3.1\RegistroV7.runtimeconfig.dev.json
+C:\Users\Mario David\Desktop\ejercicios\RegistroV7\bin\Debug\netcoreapp3.1\RegistroV7.dll
+C:\Users\Mario David\Desktop\ejercicios\RegistroV7\bin\Debug\netcoreapp3.1\RegistroV7.pdb
+C:\Users\Mario David\Desktop\ejercicios\RegistroV7\obj\Debug\netcoreapp3.1\RegistroV7.csprojAssemblyReference.cache
+C:\Users\Mario David\Desktop\ejercicios\RegistroV7\obj\Debug\netcoreapp3.1\RegistroV7.AssemblyInfoInputs.cache
+C:\Users\Mario David\Desktop\ejercicios\RegistroV7\obj\Debug\netcoreapp3.1\RegistroV7.AssemblyInfo.cs
+C:\Users\Mario David\Desktop\ejercicios\RegistroV7\obj\Debug\netcoreapp3.1\RegistroV7.csproj.CoreCompileInputs.cache
+C:\Users\Mario David\Desktop\ejercicios\RegistroV7\obj\Debug\netcoreapp3.1\RegistroV7.dll
+C:\Users\Mario David\Desktop\ejercicios\RegistroV7\obj\Debug\netcoreapp3.1\RegistroV7.pdb
+C:\Users\Mario David\Desktop\ejercicios\RegistroV7\obj\Debug\netcoreapp3.1\RegistroV7.genruntimeconfig.cache
